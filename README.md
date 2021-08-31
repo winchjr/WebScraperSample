@@ -15,7 +15,7 @@ To scrape detailed information on 2k items stored on one specific website using 
 
 # Input
 
-* 1 spreadsheet consisting of prescraped item identifier (SKU's, EDP's, etc)
+* 1 text file consisting of prescraped item identifier (SKU's, EDP's, etc)
 
 # Output
 
